@@ -28,3 +28,10 @@ Podfile.lock
 Pods/*
 demo/pods/*
 TBOOMDetector.xcodeproj/project.xcworkspace
+
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+.swiftpm
+.*.sw?
