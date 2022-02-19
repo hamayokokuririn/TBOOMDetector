@@ -32,6 +32,6 @@ TBOOMDetector.xcodeproj/project.xcworkspace
 .DS_Store
 /.build
 /Packages
-/*.xcodeproj
+#/*.xcodeproj
 .swiftpm
 .*.sw?
